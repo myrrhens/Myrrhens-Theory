@@ -1,0 +1,21 @@
+{
+"/PWHR": "{#BackSpace}",
+"230*": "{#F10}{^}",
+"23*": "{#F11}{^}",
+"23*9": "{#F9}{^}",
+"TKWR": "{#kp_subtract}{^}",
+"TAO*EULT": "{MODE:TITLE}",
+"KPHA*PLD": "{MODE:CAPS}{MODE:SET_SPACE: , }",
+"KHRA": "{#Control_L(a)}",
+"KHRAO*ER": "{MODE:CLEAR_CASE}",
+"KHR*E": "{#Control_L(e)}",
+"KHR*F": "{#Control_L(f)}",
+"KHR*RG": "{#Control_L(c)}",
+"KHR*RS": "{#Control_L(v)}",
+"KHR*PB": "{#Control_L(n)}",
+"KHR*B": "{#Control_L(b)}",
+"KHR*S": "{#Control_L(s)}",
+"KHR*D": "{#Control_L(d)}",
+"HRO*ER": "{MODE:LOWER}",
+"R-BLG": "{#kp_add}{^}"
+}
