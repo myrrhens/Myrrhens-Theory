@@ -2,7 +2,6 @@
 "/14*": "{#Up}",
 "/34R0E6R": "Plover",
 "/PWHR": "{#BackSpace}",
-"/WEUS": "with this",
 "/ALT/TAB": "{#Alt_L(Tab)}",
 "123*": "{#Left}",
 "235*": "{MODE:RESET}",
@@ -29,5 +28,7 @@
 "WEUPB/KAO*E": "{#Windows(x)}",
 "WEUPB/KAOE": "{#Windows}",
 "HRO*ER": "{MODE:LOWER}",
-"R-BLG": "{#kp_add}{^}"
+"H-F": "{^-^}",
+"R-BLG": "{#kp_add}{^}",
+"*GSZ": ">"
 }
