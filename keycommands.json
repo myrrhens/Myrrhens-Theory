@@ -28,7 +28,7 @@
 "WEUPB/KAO*E": "{#Windows(x)}",
 "WEUPB/KAOE": "{#Windows}",
 "HRO*ER": "{MODE:LOWER}",
-"H-F": "{^-^}",
+"H-F": "-",
 "R-BLG": "{#kp_add}{^}",
 "*GSZ": ">"
 }
