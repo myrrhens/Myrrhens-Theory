@@ -33,9 +33,10 @@
 "TKEP/T*EU": "the deputy:",
 "TPA*ERD": "father",
 "TRERS": "the interpreter:",
+"KW-SZ": "xx  q:",
 "KHR*EU": "cli:",
 "KHR-S": "dcf cls:",
-"KA*EURPBG": "the case manager:",
+"KA*EURPBG": "case manager",
 "KAEUR/TKPW*EUFR": "caregiver",
 "PHOERD": "mother",
 "P*EUGS": "petitioner:",
@@ -47,5 +48,6 @@
 "REFP/PA": "respt pa:",
 "REFPD": "resppa",
 "A/AL": "aal:",
+"ASZ": "xx a:",
 "UPB/EUD": "unidentified speaker:"
 }
