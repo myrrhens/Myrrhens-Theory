@@ -3,7 +3,6 @@
 "/PHRAEUB/START": ">>>>>>>>>>>>>>> playback starts",
 "/PAERT/SWO*ERPB": "((((((((((((((((((( party sworn in:",
 "/RAUL/KA*EUS": ">>>>>>recalled case:",
-"/OPB/RA*UL": ">>>>>>>>>>>>>>>> case on recall",
 "SKWRUPBLG/PW*EPBS": "(( judge off bench ))",
 "SKWRUPBLG/PWEPBS": "(( judge on bench ))",
 "SWAEUR/*EUPB": "((((((((((((((((((((((( part(ies) sworn in:",
@@ -30,5 +29,6 @@
 "OF/RO*RD": ">>>>>>>>>>>>>>>>>>>>>>>> off the record",
 "OPB/230*E7B": ">>>>>>>> court off phone",
 "OPB/TPO*EPB": ">>>>>> court on phone",
-"OPB/RO*RD": ">>>>>>>>>>>>>>>>>>>>  on the record"
+"OPB/RO*RD": ">>>>>>>>>>>>>>>>>>>>  on the record",
+"*RL": ">>>>>>>>>>>>>>>> case on recall"
 }
