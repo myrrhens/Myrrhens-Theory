@@ -1,5 +1,6 @@
 {
 "/34R0E6R": "Plover",
+"/SKA*EP": "{#Escape}",
 "/KHRALTD": "{#Control_L(Alt(Delete))}",
 "/KHR*E": "{#Control_L(e)}",
 "/KHR*F": "{#Control_L(f)}",
@@ -32,6 +33,7 @@
 "KPHA*PLD": "{MODE:CAPS}{MODE:SET_SPACE: , }",
 "KHRA": "{#Control_L(a)}",
 "KHRAO*ER": "{MODE:CLEAR_CASE}",
+"KA*PS": "{#Caps_Lock}{^}",
 "KAPS/HRO*BG": "{#Caps_Lock}{^}",
 "PHRO*EFR": "{PLOVER:FOCUS}",
 "WEUPB/KAO*E": "{#Windows(x)}",
