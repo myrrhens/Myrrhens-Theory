@@ -14,6 +14,7 @@
 "/PWHR*": "{#Delete}",
 "/ALT/TAB": "{#Alt_L(Tab)}",
 "235*": "{MODE:RESET}",
+"SKAEUP/KAOE": "{#Escape}",
 "TKOUPB/KAO*E": "{#Down}",
 "TP/1/KAO*E": "{#F1}{^}",
 "TP/12/KAO*E": "{#F12}{^}",
