@@ -37,7 +37,7 @@
 "TP-PB": "[first name]",
 "TP-PBL": "[full name]",
 "TRERS": "the interpreter:",
-"KW-SZ": "xx  q:",
+"KW-SZ": "q:  -",
 "KHR*EU": "cli:",
 "KHR-S": "dcf cls:",
 "KA*EURPBG": "case manager",
@@ -53,6 +53,6 @@
 "REFP/PA": "respt pa:",
 "REFPD": "resppa",
 "A/AL": "aal:",
-"ASZ": "xx a:",
+"ASZ": "a:  -",
 "UPB/EUD": "unidentified speaker:"
 }
