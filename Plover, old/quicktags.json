@@ -1,0 +1,14 @@
+{
+"/TPH/RE/S*ES": "-------------------------------------------------------------------  court in recess -------------------------------------------------------------------",
+"/KW/TPHA": "-------     --------  attorney --  to --  witness  q/a  --------   --------",
+"/KW/TPHA*": "-------     --------  court --  to --  witness  q/a   --------   --------",
+"KPEUB/EPBT": "-- exhibit entered into evidence:",
+"KAEUS/TKUPB": "--------------------------------  case done",
+"H-F/H-F/H-F": "-----------------------------------",
+"RA*UL": ">>>>>>>>>>>>> (( case on recall ))",
+"RA*ULD": ">>>>>>> (( recalled case:",
+"RORD/O*F": "------------------------------------------- court turned off the record",
+"RORD/O*PB": "------------------------------------------- court turned on the record",
+"*RL": "-------------------------------- case put on recall",
+"*RLD": "------------ case was recalled:"
+}
